@@ -1,0 +1,39 @@
+.container{
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 3%;
+}
+
+.sbooked{
+   background-color: #db5858;
+   height: 100px;
+    width: 100px;
+    margin: 10px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;
+
+
+}
+.seat:hover{
+    opacity: 0.5;
+}
+
+.flex-container {
+    
+    display: flex;
+    flex-wrap: nowrap;
+    background-color: rgb(248, 217, 217);
+
+  }
+  
+   .seat{
+    background-color: #32a852;
+    
+    height: 100px;
+    width: 100px;
+    margin: 10px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;
+  }
